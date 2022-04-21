@@ -1,0 +1,13 @@
+
+      *** Dynamic Page ***
+
+
+      1/ Dynamic to Make Loop in ejs
+      2/ Make Header file 
+      3/ Show common Header file
+
+      ** Jab ham ek website banate hai to header file footer file side bar sab common hota hai
+
+      
+      ** What is ejs know...?
+      
